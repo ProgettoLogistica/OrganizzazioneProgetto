@@ -1,51 +1,52 @@
-a. CALCOLO DELLE CONSEGNE GIORNALIERE:
-    Gestione della posizione
-    Gestione del peso e volume
-    Gestione delle condizioni metereologiche
-    Gestione dell’arrivo in deposito e della priorità
-b. PAGINA FATTORINO:
-    Lista generale delle consegne front-end
-    Lista generale delle consegne back-end
-    Lista dettagliata front-end
-    Lista dettagliata back-end
-    Dati del cliente front-end
-    Dati del cliente back-end
-    Bottone per le consegne portate a termine e non
-c. PAGINA RESPONSABILE:
-    Menu fattorini
-    Form per l’inserimento di un ordine front-end
-    Inserimento dell’ordine nel DB
-    Lista generale delle consegne front-end
-    Lista generale delle consegne back-end
-    Lista dettagliata front-end
-    Lista dettagliata back-end
-    Dati del cliente front-end
-    Dati del cliente back-end
-d. PAGINA UTENTE:
-    Lista generale front-end
-    Lista generale back-end
-    Lista dettagliata front-end
-    Lista dettagliata back-end
-    Stato del pacchetto front-end
-    Stato del pacchetto back-end
-e. LOGIN:
-    Form front-end
-    Controllo degli errori
-    Bottone “Password dimenticata”
-    Ricerca credenziali nel DB
-f. REGISTRAZIONE UTENTE:
-    Form front-end
-    Controllo degli errori
-    Gestione dei bottoni
-    Gestione degli utenti
-g. STATO DELLA SPEDIZIONE:
-    Barra di ricerca
-    Lista del contenuto del pacchetto front-end
-    Lista del contenuto del pacchetto back-end
-    Lista dei dettagli sullo stato del pacchetto front-end
-    Lista dei dettagli sullo stato del pacchetto back-end
-    Rinvio alla pagina di contatto nel caso non venga riconosciuto il codice della spedizione
-h. AVVISI:
-    Invio della notifica come email / messaggio
-    Invio della notifica sull’account
-    Pagina per le comunicazioni
+a. CALCOLO DELLE CONSEGNE GIORNALIERE: ---> 0
+    Gestione della posizione ---> 5
+    Gestione del peso e volume ---> 4
+    Gestione dell’arrivo in deposito e della priorità ---> 8
+    Gestione del DB (Crud) ---> 4
+b. PAGINA FATTORINO: ---> 1
+    Lista generale delle consegne front-end ---> 5
+    Lista generale delle consegne back-end ---> 8
+    Lista dettagliata front-end ---> 5
+    Lista dettagliata back-end ---> 8
+    Dati del cliente front-end ---> 5
+    Dati del cliente back-end ---> 8
+    Bottone per le consegne portate a termine e non ---> 3
+c. PAGINA RESPONSABILE: ---> 2
+    Menu fattorini ---> 5
+    Form per l’inserimento di un ordine front-end ---> 2
+    Inserimento dell’ordine nel DB ---> 3
+    Lista generale delle consegne front-end ---> 5
+    Lista generale delle consegne back-end ---> 4
+    Lista dettagliata front-end ---> 5
+    Lista dettagliata back-end ---> 8
+    Dati del cliente front-end ---> 5
+    Dati del cliente back-end ---> 8
+d. PAGINA UTENTE: ---> 5
+    Lista generale front-end ---> 4
+    Controllo degli ordini ---> 2
+    Lista dettagliata front-end ---> 5
+    Lista dettagliata back-end ---> 8
+    Stato del pacchetto front-end ---> 5
+    Stato del pacchetto back-end ---> 8
+    Ricerca credenziali nel DB ---> 4
+e. REGISTRAZIONE UTENTE: ---> 5
+    Form front-end ---> 2
+    Controllo degli errori ---> 2
+    Gestione dei bottoni ---> 2
+    Gestione degli utenti ---> 5
+f. LOGIN: ---> 8
+    Form front-end ---> 5
+    Controllo degli errori ---> 8
+    Bottone “Password dimenticata” ---> 4
+    Ricerca credenziali nel DB ---> 4
+g. STATO DELLA SPEDIZIONE: ---> 8
+    Barra di ricerca ---> 3
+    Lista del contenuto del pacchetto front-end ---> 3
+    Lista del contenuto del pacchetto back-end ---> 4
+    Lista dei dettagli sullo stato del pacchetto front-end ---> 3
+    Lista dei dettagli sullo stato del pacchetto back-end ---> 4
+    Rinvio alla pagina di contatto nel caso non venga riconosciuto il codice della spedizione ---> 1
+h. AVVISI: ---> 13
+    Invio della notifica come email / messaggio ---> 10
+    Invio della notifica sull’account ---> 7
+    Pagina per le comunicazioni ---> 7
